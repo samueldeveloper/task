@@ -1,0 +1,116 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Desenvolvimento</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <link type="text/css" rel="stylesheet" href="css/month_white.css?v=171"/>
+    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <link type="text/css" rel="stylesheet" href="css/bootstrap.min.css">
+</head>
+<body>
+    <div id="login" class="container">
+        <div class="row">
+            <div class="col-md-4 col-md-offset-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+			    	              <h3 class="panel-title">Acompanhamento de meus Projetos</h3>
+                    </div>
+                    <div class="panel-body">
+			    	    <div accept-charset="UTF-8" role="form">
+                            <fieldset>
+                                <div class="form-group">
+                                    <input id="txtUsr" class="form-control" placeholder="E-mail" name="email" type="text" autofocus>
+                                </div>
+                                <div class="form-group">
+                                    <input id="txtSenha" class="form-control" placeholder="Senha" name="senha" type="password" value="">
+                                </div>
+			    		       <input id="btnLogar" class="btn btn-lg btn-primary btn-block" type="submit" value="Entrar">
+                            </fieldset>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="principal" class="container page-container">
+      <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">Acompanhamento de meus Projetos</a>
+          </div>          
+        </div><!--/.container-fluid -->
+      </nav>
+
+        <div class="row">
+            <div class="col-md-12">
+                <!--
+                <div class="row well">
+                    <br>
+                    <span class="label label-success">Treinamento Concluído</span>
+                    <span class="label label-warning">Treinamento em Andamento</span>
+                    <span class="label label-danger">Treinamento atrasado</span>
+                    <span class="label label-info">Problema Interno</span>
+                    <span class="label label-default">Problema de Infra</span>
+                    <span class="label label-prontoini">Pronto para iniciar</span>
+                    <br>
+                    <br>
+                </div>
+                -->
+                <div class="row">
+                    <div class="col-md-12">
+                        <br>
+                        <br>
+                        <br>
+                        <div id="tarefas"></div>
+                    </div>
+                </div>
+                <div class="row">
+                </div>
+            </div>
+        </div>
+        <!--
+        <div class="sidebar-menu">
+            <header class="logo">
+                <a href="#" class="sidebar-icon">
+                    <span class="fa fa-bars"></span>
+                </a>
+                <a href="#">
+                    <span id="logo" class="fa fa-html5 fa-5x"></span>
+                </a>
+            </header>
+            <div style="border-top:1px solid rgba(69, 74, 84, 0.7)"></div>
+
+            <div class="menu">
+                <ul id="menu" >
+                    <li id="menu-home">
+                        <a href="#">
+                            <i class="fa fa-home"></i>
+                            <span>Implantações
+                                <span id="txtValorAnda" class="label label-warning"></span>
+                                <span id="txtValorAtra" class="label label-danger"></span>
+                            </span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        -->
+    </div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/daypilot-all.min.js?v=171" type="text/javascript"></script>
+    <script src="js/app.js" type="text/javascript"></script>
+    <script src="js/menu.js"></script>
+    <script type="text/javascript">
+        aoEntrar();
+    </script>
+</body>
+</html>
