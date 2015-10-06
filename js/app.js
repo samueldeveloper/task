@@ -38,7 +38,7 @@ a
                     return "psa";
 
                 }else{
-
+                    alert("Arquivo não encontrado");
                     location.href="index.html";
 
                 }

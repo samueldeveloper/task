@@ -1,6 +1,6 @@
 [
      {
-        "funcionario":"MEUS PROJETOS",
+        "funcionario":"Horizonte",
         "pendencias":[
             {
                 "pendencia": "PROJETO 1",
@@ -41,7 +41,24 @@
                         "datafim":"31/07/2015 18:00"
                      }
                    ]
-              }            
+              },
+              {
+                "pendencia": "PROJETO 3",
+                "tarefas":[
+                     {
+                        "sub":"TAREFA 3",
+                        "concluido":"NÂO",
+                        "datainicio":"01/01/2015 08:00",
+                        "datafim":"28/07/2015 18:00"
+                     },
+                     {
+                        "sub":"TAREFA 2",
+                        "concluido":"NÂO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     }
+                   ]
+              }
         ]
     }
 
