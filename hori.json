@@ -1,64 +1,1766 @@
 [
      {
-        "funcionario":"Horizonte",
+        "funcionario":"EXPERIÊCIA IS4 - HORIZONTE - CE",
         "pendencias":[
             {
-                "pendencia": "PROJETO 1",
+                "pendencia": "HOSPITAL",
                 "tarefas":[
                     {
-                        "sub":"TAREFA 1",
+                        "sub":"ATENDIMENTO (FICHA) - TREINAMENTO",
                         "concluido":"SIM",
                         "datainicio":"01/01/2015 08:00",
                         "datafim":"31/01/2015 18:00"
                      },
                      {
-                        "sub":"TAREFA 2",
+                        "sub":"ATENDIMENTO (FICHA) - ACOMPANHAMENTO",
                         "concluido":"SIM",
                         "datainicio":"01/01/2015 08:00",
                         "datafim":"31/01/2015 18:00"
                      },
                      {
-                        "sub":"TAREFA 3",
+                        "sub":"ATENDIMENTO (FICHA) - FUNCIONAMENTO INDEPENDENTE",
                         "concluido":"SIM",
                         "datainicio":"01/01/2015 08:00",
                         "datafim":"31/01/2015 18:00"
+                     },
+                     {
+                        "sub":"FARMÁCIA - INVENTÁRIO",
+                        "concluido":"SIM",
+                        "datainicio":"02/03/2015 08:00",
+                        "datafim":"02/03/2015 18:00"
+                     },
+                     {
+                        "sub":"FARMÁCIA - ACOMPANHAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"03/03/2015 08:00",
+                        "datafim":"05/03/2015 18:00"
+                     },
+                     {
+                        "sub":"FARMÁCIA - FUNCIONAMENTO INDEPENDENTE",
+                        "concluido":"SIM",
+                        "datainicio":"06/03/2015 08:00",
+                        "datafim":"06/03/2015 18:00"
+                     },
+                     {
+                        "sub":"INTERNAÇÃO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"08/06/2015 08:00",
+                        "datafim":"09/06/2015 18:00",
+                        "interno":"SIM",
+                        "descricao":"Falta definir quem irá alimentar o sistema, pois ainda não foi definido"
+                     },
+                     {
+                        "sub":"INTERNAÇÃO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"10/06/2015 08:00",
+                        "datafim":"12/06/2015 18:00"
+                     },
+                     {
+                        "sub":"INTERNAÇÃO - FUNCIONAMENTO INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"13/06/2015 08:00",
+                        "datafim":"13/06/2015 18:00",
+                        "interno":"NÃO"
+                     },
+                     {
+                        "sub":"BPA - TREINAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"06/06/2015 08:00",
+                        "datafim":"07/06/2015 18:00"
+                     },
+                     {
+                        "sub":"BPA - ACOMPANHAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"08/06/2015 08:00",
+                        "datafim":"09/06/2015 18:00"
+                     },
+                     {
+                        "sub":"BPA - FUNCIONAMENTO INDEPENDENTE",
+                        "concluido":"SIM",
+                        "datainicio":"10/06/2015 08:00",
+                        "datafim":"10/06/2015 18:00"
+                     },
+                     {
+                        "sub":"LABORATÓRIO - TREINAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+
+                    },
+
+                    {
+                       "sub":"LABORATÓRIO - INTERFACEAMENTO",
+                       "concluido":"NÃO",
+                       "datainicio":"01/10/2015 08:00",
+                       "datafim":" 30/10/2015 18:00"
+
+                   },
+                   {
+                        "sub":"LABORATÓRIO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"NUTRIÇÃO - TREINAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"NUTRIÇÃO - ACOMPANHAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"NUTRIÇÃO - FUNCIONAMENTO INDEPENDENTE",
+                        "concluido":"SIM",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
                      }
                 ]
               },
               {
-                "pendencia": "PROJETO 2",
+                "pendencia": "UPA",
                 "tarefas":[
                      {
-                        "sub":"TAREFA 1",
+                        "sub":"FARMÁCIA - INVENTÁRIO",
                         "concluido":"SIM",
                         "datainicio":"01/01/2015 08:00",
                         "datafim":"28/07/2015 18:00"
                      },
                      {
-                        "sub":"TAREFA 2",
+                        "sub":"FARMÁCIA - ACOMPANHAMENTO",
                         "concluido":"SIM",
                         "datainicio":"29/07/2015 08:00",
                         "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO (FICHA) - TREINAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO (FICHA) - ACOMPANHAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"BPA - TREINAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"BPA - ACOMPANHAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CHAMADAS (MÉDICO) - TREINAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CHAMADAS (MÉDICO) - ACOMPANHAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CHAMADAS (MÉDICO PRESCREVENDO) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Faltando impressora nos concultórios"
+                     },
+                     {
+                        "sub":"CHAMADAS (MÉDICO PRESCREVENDO) - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
                      }
-                   ]
+                ]
+              },
+            {
+                "pendencia": "CAF",
+                "tarefas":[
+                    {
+                        "sub":"FARMÁCIA - IMPORTAÇÃO DE CADASTRO",
+                        "concluido":"SIM",
+                        "datainicio":"10/01/2015 08:00",
+                        "datafim":"30/01/2015 18:00"
+                     },
+                     {
+                        "sub":"FARMÁCIA - ANÁLISE DOS CADASTROS",
+                        "concluido":"SIM",
+                        "datainicio":"01/07/2015 08:00",
+                        "datafim":"10/07/2015 18:00"
+                     },
+                     {
+                        "sub":"FARMÁCIA - TREINAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"10/06/2015 08:00",
+                        "datafim":"30/06/2015 18:00"
+                     },
+                     {
+                        "sub":"FARMÁCIA - INVENTÁRIO",
+                        "concluido":"NÃO",
+                        "datainicio":"06/07/2015 08:00",
+                        "datafim":"07/07/2015 18:00",
+                        "interno":"SIM",
+                        "descricao":"Falta marcar lançamento do Inventário"
+                     },
+                     {
+                        "sub":"FARMÁCIA - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"23/07/2015 08:00",
+                        "datafim":"24/07/2015 18:00"
+                     }
+                ]
               },
               {
-                "pendencia": "PROJETO 3",
+                "pendencia": "PSF - Zumbi",
                 "tarefas":[
                      {
-                        "sub":"TAREFA 3",
-                        "concluido":"NÂO",
-                        "datainicio":"01/01/2015 08:00",
-                        "datafim":"28/07/2015 18:00"
+                        "sub":"FARMÁCIA - INVENTÁRIO",
+                        "concluido":"SIM",
+                        "datainicio":"18/05/2015 08:00",
+                        "datafim":"18/05/2015 18:00"
                      },
                      {
-                        "sub":"TAREFA 2",
-                        "concluido":"NÂO",
+                        "sub":"FARMÁCIA - ACOMPANHAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"19/05/2015 08:00",
+                        "datafim":"21/05/2015 18:00"
+                     },
+                     {
+                        "sub":"FARMÁCIA - IDEPENDENTE",
+                        "concluido":"SIM",
+                        "datainicio":"22/05/2015 08:00",
+                        "datafim":"22/05/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO (Equipe 1) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"NÃO",
+                        "pronto":"SIM",
+                        "descricao":"Ficha impressa do atendimento"
+
+                     },
+                     {
+                        "sub":"ATENDIMENTO (Equipe 1) - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "pronto":"SIM"
+                     },
+                     {
+                        "sub":"ATENDIMENTO (Equipe 1) - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "pronto":"SIM"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 1) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "pronto":"SIM"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 1) - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "pronto":"SIM"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 1) - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "pronto":"SIM"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO (Equipe 1) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "pronto":"SIM"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO (Equipe 1) - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "pronto":"SIM"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO (Equipe 1) - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "pronto":"SIM"
+                     },
+                     {
+                        "sub":"ATENDIMENTO (Equipe 2) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Falta computador, impressora e ponto de rede"
+                     },
+                     {
+                        "sub":"ATENDIMENTO (Equipe 2) - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+
+                     },
+                     {
+                        "sub":"ATENDIMENTO (Equipe 2) - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 2) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Falta computador e ponto de rede"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 2) - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 2) - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO (Equipe 2) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Falta computador e ponto de rede"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO (Equipe 2) - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO (Equipe 2) - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO (Equipe 3) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Falta computador, impressora e ponto de rede"
+                     },
+                     {
+                        "sub":"ATENDIMENTO (Equipe 3) - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO (Equipe 3) - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 3) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Falta computador e ponto de rede"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 3) - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 3) - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO (Equipe 3) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Falta computador e ponto de rede"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO (Equipe 3) - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO (Equipe 3) - INDEPENDENTE",
+                        "concluido":"NÃO",
                         "datainicio":"29/07/2015 08:00",
                         "datafim":"31/07/2015 18:00"
                      }
-                   ]
-              }
+                ]
+              },
+              {
+                "pendencia": "PSF - Planalto Horizonte I",
+                "tarefas":[
+                     {
+                        "sub":"FARMÁCIA - INVENTÁRIO",
+                        "concluido":"SIM",
+                        "datainicio":"28/07/2015 08:00",
+                        "datafim":"28/07/2015 18:00"
+                     },
+                     {
+                        "sub":"FARMÁCIA - ACOMPANHAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"FARMÁCIA - VALIDAÇÃO DE DADOS",
+                        "concluido":"SIM",
+                        "datainicio":"08/07/2015 08:00",
+                        "datafim":"10/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO (FICHA) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Falta Impressora para emissão da ficha"
+                     },
+                     {
+                        "sub":"ATENDIMENTO (FICHA) - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO DE RISCO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Falta impressora para impressão das fichas"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO DE RISCO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO DE RISCO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Falta impressora para impressão das fichas"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     }
+                ]
+              },
+              {
+                "pendencia": "PSF - Planalto Horizonte II e III",
+                "tarefas":[
+                     {
+                        "sub":"FARMÁCIA - INVENTÁRIO",
+                        "concluido":"SIM",
+                        "datainicio":"07/07/2015 08:00",
+                        "datafim":"09/08/2015 18:00"
+                     },
+                     {
+                        "sub":"FARMÁCIA - ACOMPANHAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"09/07/2015 08:00",
+                        "datafim":"10/07/2015 18:00"
+                     },
+                     {
+                        "sub":"FARMÁCIA - IDEPENDENTE",
+                        "concluido":"SIM",
+                        "datainicio":"13/07/2015 08:00",
+                        "datafim":"13/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO (Equipe 1) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Falta computador, Impressoras e ponto de rede"
+                     },
+                     {
+                        "sub":"ATENDIMENTO (Equipe 1) - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO (Equipe 1) - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 1) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Falta computador, Impressoras e ponto de rede"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 1) - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 1) - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO (Equipe 1) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Falta computador, Impressoras e ponto de rede"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO (Equipe 1) - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO (Equipe 1) - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO (Equipe 2) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Falta computador, Impressoras e ponto de rede"
+                     },
+                     {
+                        "sub":"ATENDIMENTO (Equipe 2) - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO (Equipe 2) - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 2) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Falta computador, Impressoras e ponto de rede"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 2) - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 2) - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO (Equipe 2) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Falta computador, Impressoras e ponto de rede"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO (Equipe 2) - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO (Equipe 2) - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     }
+                ]
+              },
+              {
+                "pendencia": "PSF - Mangueiral",
+                "tarefas":[
+                     {
+                        "sub":"FARMÁCIA - INVENTÁRIO",
+                        "concluido":"SIM",
+                        "datainicio":"28/07/2015 08:00",
+                        "datafim":"28/07/2015 18:00"
+                     },
+                     {
+                        "sub":"FARMÁCIA - ACOMPANHAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+
+                     },
+                     {
+                        "sub":"ATENDIMENTO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 1) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     }
+                ]
+              },
+              {
+                "pendencia": "PSF - Cajueiro da Malhada",
+                "tarefas":[
+                     {
+                        "sub":"FARMÁCIA - INVENTÁRIO",
+                        "concluido":"NÃO",
+                        "datainicio":"28/07/2015 08:00",
+                        "datafim":"28/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"FARMÁCIA - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+
+                     },
+                     {
+                        "sub":"ATENDIMENTO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 1) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     }
+                ]
+              },
+              {
+                "pendencia": "PSF - Vila Nascimento",
+                "tarefas":[
+                     {
+                        "sub":"FARMÁCIA - INVENTÁRIO",
+                        "concluido":"NÃO",
+                        "datainicio":"28/07/2015 08:00",
+                        "datafim":"28/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Link de conexão lento"
+                     },
+                     {
+                        "sub":"FARMÁCIA - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+
+                     },
+                     {
+                        "sub":"ATENDIMENTO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 1) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     }
+                ]
+              },
+              {
+                "pendencia": "PSF - Buenos Aires I",
+                "tarefas":[
+                     {
+                        "sub":"FARMÁCIA - INVENTÁRIO",
+                        "concluido":"SIM",
+                        "datainicio":"28/07/2015 08:00",
+                        "datafim":"28/07/2015 18:00"
+
+                     },
+                     {
+                        "sub":"FARMÁCIA - ACOMPANHAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+
+                     },
+                     {
+                        "sub":"ATENDIMENTO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 1) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     }
+                ]
+              },
+              {
+                "pendencia": "PSF - Dourado",
+                "tarefas":[
+                     {
+                        "sub":"FARMÁCIA - INVENTÁRIO",
+                        "concluido":"SIM",
+                        "datainicio":"28/07/2015 08:00",
+                        "datafim":"28/07/2015 18:00"
+
+                     },
+                     {
+                        "sub":"FARMÁCIA - ACOMPANHAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+
+                     },
+                     {
+                        "sub":"ATENDIMENTO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 1) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     }
+                ]
+              },
+              {
+                "pendencia": "PSF - Buenos Aires II",
+                "tarefas":[
+                     {
+                        "sub":"FARMÁCIA - INVENTÁRIO",
+                        "concluido":"SIM",
+                        "datainicio":"28/07/2015 08:00",
+                        "datafim":"28/07/2015 18:00"
+
+                     },
+                     {
+                        "sub":"FARMÁCIA - ACOMPANHAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+
+                     },
+                     {
+                        "sub":"ATENDIMENTO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 1) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     }
+                ]
+              },
+              {
+                "pendencia": "PSF - Mal Cozinhado",
+                "tarefas":[
+                     {
+                        "sub":"FARMÁCIA - INVENTÁRIO",
+                        "concluido":"NÃO",
+                        "datainicio":"28/07/2015 08:00",
+                        "datafim":"28/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"FARMÁCIA - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+
+                     },
+                     {
+                        "sub":"ATENDIMENTO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 1) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     }
+                ]
+              },
+              {
+                "pendencia": "PSF - Parque Diadema",
+                "tarefas":[
+                     {
+                        "sub":"FARMÁCIA - INVENTÁRIO",
+                        "concluido":"SIM",
+                        "datainicio":"28/07/2015 08:00",
+                        "datafim":"28/07/2015 18:00"
+                     },
+                     {
+                        "sub":"FARMÁCIA - ACOMPANHAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+
+                     },
+                     {
+                        "sub":"ATENDIMENTO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 1) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     }
+                ]
+              },
+              {
+                "pendencia": "PSF - Buenos Aires",
+                "tarefas":[
+                     {
+                        "sub":"FARMÁCIA - INVENTÁRIO",
+                        "concluido":"SIM",
+                        "datainicio":"28/07/2015 08:00",
+                        "datafim":"28/07/2015 18:00"
+
+                     },
+                     {
+                        "sub":"FARMÁCIA - ACOMPANHAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+
+                     },
+                     {
+                        "sub":"ATENDIMENTO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 1) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     }
+                ]
+              },
+              {
+                "pendencia": "PSF - Catolé",
+                "tarefas":[
+                     {
+                        "sub":"FARMÁCIA - INVENTÁRIO",
+                        "concluido":"NÃO",
+                        "datainicio":"28/07/2015 08:00",
+                        "datafim":"28/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"FARMÁCIA - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+
+                     },
+                     {
+                        "sub":"ATENDIMENTO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO (Equipe 1) - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     }
+                ]
+              },
+              {
+                "pendencia": "PSF - Aningas",
+                "tarefas":[
+                     {
+                        "sub":"FARMÁCIA - INVENTÁRIO",
+                        "concluido":"NÃO",
+                        "datainicio":"28/07/2015 08:00",
+                        "datafim":"28/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"FARMÁCIA - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+
+                     },
+                     {
+                        "sub":"ATENDIMENTO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     }
+                ]
+              },
+              {
+                "pendencia": "PSF - Queimadas",
+                "tarefas":[
+                     {
+                        "sub":"FARMÁCIA - INVENTÁRIO",
+                        "concluido":"SIM",
+                        "datainicio":"28/07/2015 08:00",
+                        "datafim":"28/07/2015 18:00"
+                     },
+                     {
+                        "sub":"FARMÁCIA - ACOMPANHAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+
+                     },
+                     {
+                        "sub":"ATENDIMENTO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     }
+                ]
+              },
+              {
+                "pendencia": "PSF - Tanques",
+                "tarefas":[
+                     {
+                        "sub":"FARMÁCIA - INVENTÁRIO",
+                        "concluido":"SIM",
+                        "datainicio":"28/07/2015 08:00",
+                        "datafim":"28/07/2015 18:00"
+                     },
+                     {
+                        "sub":"FARMÁCIA - ACOMPANHAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+
+                     },
+                     {
+                        "sub":"ATENDIMENTO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     }
+                ]
+              },
+              {
+                "pendencia": "PSF - Diadema II",
+                "tarefas":[
+                     {
+                        "sub":"FARMÁCIA - INVENTÁRIO",
+                        "concluido":"SIM",
+                        "datainicio":"28/07/2015 08:00",
+                        "datafim":"28/07/2015 18:00"
+                     },
+                     {
+                        "sub":"FARMÁCIA - ACOMPANHAMENTO",
+                        "concluido":"SIM",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+
+                     },
+                     {
+                        "sub":"ATENDIMENTO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"ATENDIMENTO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CLASSIFICAÇÃO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - TREINAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00",
+                        "infra":"SIM",
+                        "descricao":"Levantar"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - ACOMPANHAMENTO",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     },
+                     {
+                        "sub":"CONSULTÓRIO - INDEPENDENTE",
+                        "concluido":"NÃO",
+                        "datainicio":"29/07/2015 08:00",
+                        "datafim":"31/07/2015 18:00"
+                     }
+                ]
+            }
         ]
     }
 
